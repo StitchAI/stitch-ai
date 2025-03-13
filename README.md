@@ -4,6 +4,30 @@
 
 > Decentralized Knowledge Hub for AI
 
+## Repositories
+
+[Stitch AI App](https://github.com/StitchAI/stitch-ai-app)
+
+- Frontend repository containing the user interface and client-side application for the Stitch AI service
+
+[Stitch AI Server](https://github.com/StitchAI/stitch-ai-app)
+
+- Backend repository containing internal memory management code for efficient storage, retrieval, and synchronization of agent memories
+
+[Stitch AI Contract](https://github.com/StitchAI/stitch-ai-app)
+
+- Smart contract repository managing memory purchases, sales, and subscription services
+
+[Stitch AI CLI JS](https://github.com/StitchAI/stitch-ai-cli-js)
+
+- Node.js CLI module for managing memory uploads, download, API keys, and seamless integration with AI agents
+- [npm @stitch-ai/cli](https://www.npmjs.com/package/@stitch-ai/cli?activeTab=readme)
+
+[Stitch AI CLI PY](https://github.com/StitchAI/stitch-ai-cli-py)
+
+- Python CLI module for managing memory uploads, downloads, API keys, and seamless integration with AI agents
+- [pip stitch_ai](https://pypi.org/project/stitch-ai/)
+
 ## Overview
 
 Stitch AI is creating the standardized protocol and marketplace for AI agent memories. By
