@@ -10,11 +10,11 @@
 
 - Frontend repository containing the user interface and client-side application for the Stitch AI service
 
-[Stitch AI Server](https://github.com/StitchAI/stitch-ai-app)
+[Stitch AI Server](https://github.com/StitchAI/stitch-ai-server)
 
 - Backend repository containing internal memory management code for efficient storage, retrieval, and synchronization of agent memories
 
-[Stitch AI Contract](https://github.com/StitchAI/stitch-ai-app)
+[Stitch AI Contract](https://github.com/StitchAI/stitch-ai-contracts)
 
 - Smart contract repository managing memory purchases, sales, and subscription services
 
