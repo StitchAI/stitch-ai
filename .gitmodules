@@ -1,15 +1,15 @@
 [submodule "stitch-ai-app"]
 	path = stitch-ai-app
-	url = git@github-2.com:StitchAI/stitch-ai-app.git
+	url = git@github.com:StitchAI/stitch-ai-app.git
 [submodule "stitch-ai-server"]
 	path = stitch-ai-server
-	url = git@github-2.com:StitchAI/stitch-ai-server.git
+	url = git@github.com:StitchAI/stitch-ai-server.git
 [submodule "stitch-ai-contracts"]
 	path = stitch-ai-contracts
-	url = git@github-2.com:StitchAI/stitch-ai-contracts.git
+	url = git@github.com:StitchAI/stitch-ai-contracts.git
 [submodule "stitch-ai-cli-js"]
 	path = stitch-ai-cli-js
-	url = git@github-2.com:StitchAI/stitch-ai-cli-js.git
+	url = git@github.com:StitchAI/stitch-ai-cli-js.git
 [submodule "stitch-ai-cli-py"]
 	path = stitch-ai-cli-py
-	url = git@github-2.com:StitchAI/stitch-ai-cli-py.git
+	url = git@github.com:StitchAI/stitch-ai-cli-py.git
